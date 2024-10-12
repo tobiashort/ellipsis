@@ -1,3 +1,3 @@
-module github.com/t-hg/ellipsis
+module github.com/tobiashort/ellipsis
 
 go 1.22.5
